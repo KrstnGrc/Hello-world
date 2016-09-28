@@ -2,9 +2,9 @@
 My first repository
 
 This repository contains all data files, R routines, and tutorials associated to the 
-publication García & Borda de Agua (2017) "Extended dispersal kernels in a changing world: insights from statistics of extremes"
-included in the Special Feature "##Dispersal processes driving plant movement: challenges for range shifts in a changing world##"
-issued by Journal of Ecology
+publication García & Borda de Agua (2017) "_Extended dispersal kernels in a changing world: insights from statistics of extremes"
+included in the Special Feature "_Dispersal processes driving plant movement: challenges for range shifts in a changing world"
+issued by _*Journal of Ecology
 
 Files Description:
 
